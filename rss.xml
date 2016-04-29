@@ -4,21 +4,21 @@
         <description><![CDATA[ericbarrows]]></description>
         <link>https://thegrid.ai/ericbarrows/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 18:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 18:02:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ericbarrows/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[.: eric.barrows]]></title>
+            <description><![CDATA[<article><h1>.: eric.barrows</h1><p>.:. nexus</p></article>]]></description>
+            <link>https://thegrid.ai/ericbarrows/-ericbarrows/index.html</link>
+            <guid isPermaLink="false">cd1911c7-3705-47a1-b8d7-cc5edf26f970</guid>
+            <pubDate>Fri, 29 Apr 2016 18:02:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[art .:. artem]]></title>
             <description><![CDATA[<article><h1>art .:. artem</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/397750107f84a6315476816251fa98acee089d87.jpg"></article>]]></description>
             <link>https://thegrid.ai/ericbarrows/art--artem/index.html</link>
             <guid isPermaLink="false">204e851c-7d47-4d7b-93a9-0a72cf1b684f</guid>
             <pubDate>Fri, 29 Apr 2016 17:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[.: eric.barrows]]></title>
-            <description><![CDATA[<article><h1>.: eric.barrows</h1><p>.:. nexus</p></article>]]></description>
-            <link>https://thegrid.ai/ericbarrows/-ericbarrows/index.html</link>
-            <guid isPermaLink="false">cd1911c7-3705-47a1-b8d7-cc5edf26f970</guid>
-            <pubDate>Fri, 29 Apr 2016 17:56:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
