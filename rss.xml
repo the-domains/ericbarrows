@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ericbarrows]]></title>
+        <description><![CDATA[ericbarrows]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 17:49:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[.: eric.barrows]]></title>
+            <description><![CDATA[<article><h1>.: eric.barrows</h1><p>.:. nexus</p></article>]]></description>
+            <link>undefined-ericbarrows/index.html</link>
+            <guid isPermaLink="false">cd1911c7-3705-47a1-b8d7-cc5edf26f970</guid>
+            <pubDate>Fri, 29 Apr 2016 17:49:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
