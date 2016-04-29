@@ -4,28 +4,28 @@
         <description><![CDATA[ericbarrows]]></description>
         <link>https://thegrid.ai/ericbarrows/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 17:57:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ericbarrows/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[.:. contactus]]></title>
-            <description><![CDATA[<article><h1>.:. contactus</h1><p>.: eric.barrows : the pseudonym for a cluster of sentient, self-replicating crystals orbiting the extrasolar planet Dagon (Fomalhaut b) approximately 25 light-years from Earth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c9c605889b97541fc7bd9550a0d97b40947f542.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ericbarrows/-contactus/index.html</link>
-            <guid isPermaLink="false">87a71c71-f5d7-4a66-b738-2c6a2f839dd7</guid>
-            <pubDate>Fri, 29 Apr 2016 17:56:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[art .:. artem]]></title>
-            <description><![CDATA[<article><h1>art .:. artem</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e035b963c2f05e8a1cadbdc2f6ae5dc12469cc86.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>art .:. artem</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/397750107f84a6315476816251fa98acee089d87.jpg"></article>]]></description>
             <link>https://thegrid.ai/ericbarrows/art--artem/index.html</link>
             <guid isPermaLink="false">204e851c-7d47-4d7b-93a9-0a72cf1b684f</guid>
-            <pubDate>Fri, 29 Apr 2016 17:56:31 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 17:57:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[.: eric.barrows]]></title>
             <description><![CDATA[<article><h1>.: eric.barrows</h1><p>.:. nexus</p></article>]]></description>
             <link>https://thegrid.ai/ericbarrows/-ericbarrows/index.html</link>
             <guid isPermaLink="false">cd1911c7-3705-47a1-b8d7-cc5edf26f970</guid>
-            <pubDate>Fri, 29 Apr 2016 17:55:16 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 17:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[.:. contactus]]></title>
+            <description><![CDATA[<article><h1>.:. contactus</h1><p>.: eric.barrows : the pseudonym for a cluster of sentient, self-replicating crystals orbiting the extrasolar planet Dagon (Fomalhaut b) approximately 25 light-years from Earth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3a3efa1401be505b45668097a52e1333fe05975.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ericbarrows/-contactus/index.html</link>
+            <guid isPermaLink="false">87a71c71-f5d7-4a66-b738-2c6a2f839dd7</guid>
+            <pubDate>Fri, 29 Apr 2016 17:56:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
