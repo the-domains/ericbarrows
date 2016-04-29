@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '.:. nexus'
-datePublished: '2016-04-29T17:53:12.061Z'
-dateModified: '2016-04-29T17:52:59.910Z'
+datePublished: '2016-04-29T17:55:16.255Z'
+dateModified: '2016-04-29T17:54:08.006Z'
 title: '.: eric.barrows'
 author: []
 sourcePath: _posts/2016-04-29--ericbarrows.md
