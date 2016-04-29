@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ericbarrows]]></title>
         <description><![CDATA[ericbarrows]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ericbarrows/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:49:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 17:53:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ericbarrows/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[.: eric.barrows]]></title>
             <description><![CDATA[<article><h1>.: eric.barrows</h1><p>.:. nexus</p></article>]]></description>
-            <link>undefined-ericbarrows/index.html</link>
+            <link>https://thegrid.ai/ericbarrows/-ericbarrows/index.html</link>
             <guid isPermaLink="false">cd1911c7-3705-47a1-b8d7-cc5edf26f970</guid>
-            <pubDate>Fri, 29 Apr 2016 17:49:26 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 17:53:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
