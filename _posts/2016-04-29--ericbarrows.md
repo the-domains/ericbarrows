@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '.:. nexus'
-datePublished: '2016-04-29T18:02:20.207Z'
-dateModified: '2016-04-29T17:59:00.622Z'
+datePublished: '2016-04-29T18:09:05.012Z'
+dateModified: '2016-04-29T18:08:53.085Z'
 title: '.: eric.barrows'
 author: []
 sourcePath: _posts/2016-04-29--ericbarrows.md
@@ -37,6 +37,7 @@ poetry .:. poesis
 
 essays .:. gnosis
 
-.:. contactus
+.:. [contactus][1]
 
 [0]: https://thegrid.ai/ericbarrows/art--artem/
+[1]: https://thegrid.ai/ericbarrows/-contactus/
