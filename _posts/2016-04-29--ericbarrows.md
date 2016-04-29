@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '.:. nexus'
-datePublished: '2016-04-29T17:56:42.863Z'
-dateModified: '2016-04-29T17:55:23.666Z'
+datePublished: '2016-04-29T18:02:20.207Z'
+dateModified: '2016-04-29T17:59:00.622Z'
 title: '.: eric.barrows'
 author: []
 sourcePath: _posts/2016-04-29--ericbarrows.md
@@ -31,10 +31,12 @@ _type: Article
 
 stories .:. narratus
 
-art .:. artem 
+[art .:. artem ][0]
 
 poetry .:. poesis 
 
 essays .:. gnosis
 
 .:. contactus
+
+[0]: https://thegrid.ai/ericbarrows/art--artem/
