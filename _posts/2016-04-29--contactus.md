@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '.: eric.barrows : the pseudonym for a cluster of sentient, self-replicating crystals orbiting the extrasolar planet Dagon (Fomalhaut b) approximately 25 light-years from Earth.'
-datePublished: '2016-04-29T18:02:06.986Z'
-dateModified: '2016-04-29T18:01:44.595Z'
+datePublished: '2016-04-29T18:03:49.448Z'
+dateModified: '2016-04-29T18:03:32.661Z'
 title: '.:. contactus'
 author:
   - name: ''
@@ -27,4 +27,4 @@ _type: WebPage
 # .:. contactus
 
 .: eric.barrows : the pseudonym for a cluster of sentient, self-replicating crystals orbiting the extrasolar planet Dagon (Fomalhaut b) approximately 25 light-years from Earth.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c9c605889b97541fc7bd9550a0d97b40947f542.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3a3efa1401be505b45668097a52e1333fe05975.jpg)
