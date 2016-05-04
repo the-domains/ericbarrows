@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '.:. nexus'
-datePublished: '2016-05-04T16:53:05.133Z'
-dateModified: '2016-05-04T16:52:48.068Z'
+datePublished: '2016-05-04T16:56:24.542Z'
+dateModified: '2016-05-04T16:55:41.330Z'
 title: '.: eric.barrows'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-29--ericbarrows.md
-published: true
 authors: []
 publisher:
   name: null
@@ -23,7 +24,7 @@ _type: Article
 
 ---
 # .: eric.barrows
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c5b2b8-5a35-4dc4-9bc5-9e749b6a2e28.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a151ac0fcddabd2d19162803501adffbaf89291.jpg)
 
 .: Have Chaos --- Will Travel :.
 
